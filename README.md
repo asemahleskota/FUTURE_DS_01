@@ -38,6 +38,4 @@ Recommendations
 * Monitor discounts to maintain profitability.
 * Prioritize inventory planning for top-selling products.
 
-Dashboard Preview
 
-A screenshot of the dashboard is included in this repository.
